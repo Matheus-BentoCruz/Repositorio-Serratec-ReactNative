@@ -19,28 +19,20 @@ const styles = StyleSheet.create({
      flexDirection: 'row'
    },
    box1: {
-      
-    //   flex:1,
       width: '25%',
       height: '15%',
       backgroundColor: '#50E3C2'
    },
-
    box2: {
-      
-    // flex:1,
     width: '25%',
     height: '15%',
     backgroundColor: '#4A90E2'
  },
-
- box3: {
-      
-    // flex:1,
+   box3: {
     width: '25%',
     height: '15%',
     backgroundColor: '#9013FE'
- },
+   },
 });
 
 export default Exercicio4;

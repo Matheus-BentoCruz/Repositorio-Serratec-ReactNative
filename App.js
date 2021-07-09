@@ -13,21 +13,18 @@ import Exercicio4 from './aula02-exercicios/exercicio4';
 import Exercicio5 from './aula02-exercicios/exercicio5';
 import Exercicio6 from './aula02-exercicios/exercicio6';
 
+import Componente from './aula03-exercicios/ComponentesBasicos';
 
-
-
-
-
-
-
-
+import Trabalho01 from './trabalho01/Trabalho01';
 
 export default function App() {
   return (
-    <>
-      <Exercicio6></Exercicio6>
+    <>   
+      <Trabalho01></Trabalho01>   
     </>
   );
 }
+
+
 
 

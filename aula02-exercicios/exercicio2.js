@@ -8,22 +8,17 @@ export default function Exercicio2(){
      </View>
     );
 }
-
 const styles = StyleSheet.create({
    container: {
      flex:1,
      justifyContent: 'center',
      alignItems: 'center',
-     flexDirection: 'row',
-     
-     
+     flexDirection: 'row',   
    },
-   box: {
-      
+   box: {     
       flex:1,
       width: '15%',
       height: '15%',
       backgroundColor: '#50E3C2',
-
    }
 });

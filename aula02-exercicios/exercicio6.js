@@ -9,7 +9,7 @@ const Exercicio6 =() => {
             <View style={styles.box1}></View>
             <View style={styles.box1}></View>
         </View>
-        
+
         <View style={styles.container2}>
 
             <View style={styles.box2}></View>
@@ -18,7 +18,6 @@ const Exercicio6 =() => {
         </View>
 
         <View style={styles.container2}>
-
             <View style={styles.box3}></View>
             <View style={styles.box3}></View>
             <View style={styles.box3}></View>
@@ -29,17 +28,13 @@ const Exercicio6 =() => {
             <View style={styles.box4}></View>
             <View style={styles.box4}></View>
         </View>
-
-     </View>
-     
+     </View>    
     );
 };
 
 const styles = StyleSheet.create({
    container: {
-     flex:1,
-     
-      
+     flex:1,     
    },
 
    container2:{
@@ -47,35 +42,23 @@ const styles = StyleSheet.create({
       flexDirection: 'row',
       justifyContent: 'space-around',
       alignItems: 'center',
-
    },
    box1: {
-      
-    //   flex:1,
       width: '25%',
       height: '60%',
       backgroundColor: '#50E3C2'
    },
-
    box2: {
-      
-    // flex:1,
     width: '25%',
     height: '60%',
     backgroundColor: '#5A90E2'
  },
-
- box3: {
-      
-    // flex:1,
+   box3: {
     width: '25%',
     height: '60%',
     backgroundColor: '#9013FE'
  },
-
- box4: {
-      
-    // flex:1,
+   box4: {
     width: '25%',
     height: '60%',
     backgroundColor: '#F5A623'

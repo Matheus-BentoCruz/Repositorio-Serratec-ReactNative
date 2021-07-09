@@ -13,18 +13,13 @@ const styles = StyleSheet.create({
    container: {
      flex:1,
      justifyContent: 'center',
-     alignItems: 'center',
-     
-     
+     alignItems: 'center',    
    },
-   box: {
-      
+   box: {      
       flex:1,
       width: '30%',
       height: '30%',
       backgroundColor: '#50E3C2',
-
    }
 });
 
-// cores: “50E3C2”, “F5A623”, “9013FE”, “4A90E2”
