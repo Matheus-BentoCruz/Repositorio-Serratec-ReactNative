@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     container2: {
         width: '80%',
         marginTop: '2%',
-    }
-})
+    },
+});
 
 export default ComponentesBasicos;
