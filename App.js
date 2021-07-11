@@ -19,6 +19,11 @@ import Componente2 from './aula03-exercicios/ComponentesBasicos2';
 import Componente3 from './aula03-exercicios/ComponentesBasicos3';
 import DesafioPerfil from './aula03-exercicios/desafio-perfil';
 
+import Navegacao01 from './aula04-exercicios/navegacao01';
+import Navegacao02 from './aula04-exercicios/navegacao02';
+
+
+
 
 
 
@@ -27,7 +32,7 @@ import Trabalho01 from './trabalho01/Trabalho01';
 export default function App() {
   return (
     <>   
-      <DesafioPerfil></DesafioPerfil>   
+      <Navegacao02></Navegacao02>   
     </>
   );
 }
