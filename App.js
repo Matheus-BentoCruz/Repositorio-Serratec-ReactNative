@@ -22,17 +22,15 @@ import DesafioPerfil from './aula03-exercicios/desafio-perfil';
 import Navegacao01 from './aula04-exercicios/navegacao01';
 import Navegacao02 from './aula04-exercicios/navegacao02';
 
-
-
-
-
+import Navegacao03 from './aula05-exercicios/navegacao03';
+import AsyncSto from './aula05-exercicios/async-storage';
 
 import Trabalho01 from './trabalho01/Trabalho01';
 
 export default function App() {
   return (
     <>   
-      <Navegacao02></Navegacao02>   
+      <AsyncSto></AsyncSto>   
     </>
   );
 }
