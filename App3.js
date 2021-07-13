@@ -6,6 +6,7 @@ import Home from './src-trabalho02/screens/Home';
 import Login from './src-trabalho02/screens/Login';
 import Register from './src-trabalho02/screens/Register';
 import Splash from './src-trabalho02/screens/Splash';
+import App2 from './App2'
 
 const Stack = createStackNavigator();
 const App = () => {
