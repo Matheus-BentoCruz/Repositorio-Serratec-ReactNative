@@ -25,12 +25,15 @@ import Navegacao02 from './aula04-exercicios/navegacao02';
 import Navegacao03 from './aula05-exercicios/navegacao03';
 import AsyncSto from './aula05-exercicios/async-storage';
 
+//Aula 06
+import Routes from './src/routes';
+
 import Trabalho01 from './trabalho01/Trabalho01';
 
 export default function App() {
   return (
     <>   
-      <AsyncSto></AsyncSto>   
+      <Routes></Routes>   
     </>
   );
 }
